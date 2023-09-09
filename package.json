@@ -1,0 +1,43 @@
+{
+  "name": "vscode-vue3-extension-pack",
+  "displayName": "VS Code Vue3 Extension Pack",
+  "description": "Popular Visual Studio Code extensions for Vue 3 authoring",
+  "version": "0.1.0",
+  "publisher": "ShaoYu",
+  "icon": "images/5c2c106b.png",
+  "repository": "https://github.com/ShaoYuKao/vscode-vue3-extension-pack",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Vue3"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "oderwat.indent-rainbow",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense",
+    "xabikos.JavaScriptSnippets",
+    "Tobermory.es6-string-html",
+    "JakeWilson.vscode-cdnjs",
+    "Gruntfuggly.todo-tree",
+    "Vue.volar",
+    "Wscats.vue",
+    "christian-kohler.npm-intellisense",
+    "JerryHong.autofilename",
+    "maptz.regionfolder",
+    "hollowtree.vue-snippets",
+    "octref.vetur",
+    "RoyAction.color-manager",
+    "dbaeumer.vscode-eslint",
+    "maggie.eslint-rules-zh-plugin",
+    "viablelab.bracket-padder",
+    "SirTori.indenticator"
+  ]
+}
